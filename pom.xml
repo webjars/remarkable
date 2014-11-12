@@ -10,7 +10,7 @@
 
   <groupId>org.webjars</groupId>
   <artifactId>remarkable</artifactId>
-  <version>1.4.0-SNAPSHOT</version>
+  <version>1.4.0</version>
   <packaging>jar</packaging>
 
   <name>remarkable</name>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/remarkable</url>
         <connection>scm:git:https://github.com/webjars/remarkable.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/remarkable.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>remarkable-1.4.0</tag>
     </scm>
     
     <build>
